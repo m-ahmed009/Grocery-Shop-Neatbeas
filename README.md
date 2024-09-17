@@ -39,4 +39,5 @@ Manage Inventory: Input the quantity of each product and specify the unit of mea
 Suggestions and improvements are welcome! If you have any ideas, bug reports, or want to contribute to the project, please submit an issue or pull request.
 
 
-![image](https://github.com/user-attachments/assets/62d00324-1e51-4781-bfe1-66f31b53bbee)
+![image](https://github.com/user-attachments/assets/149bcc68-fd58-4c0c-9865-538571129de9)
+
